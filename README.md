@@ -1,3 +1,3 @@
 # m3uParserNode
 
-a very simplistic m3u8 parser for node js. See m3utest.js on how to use. The m3u8 file is parsed into a json object.
+A very simplistic m3u8 parser for node js. See m3utest.js on how to use. The m3u8 file is parsed into a json object.
